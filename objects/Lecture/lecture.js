@@ -4,6 +4,7 @@
     String, Number, Boolean, Null, undefined
 // Non-premitive:
     object: collection of properties,can be diff. data types.
+    * Function inside Objects are called methods.
 */
 let user = {
     name: "Sam Altman",
