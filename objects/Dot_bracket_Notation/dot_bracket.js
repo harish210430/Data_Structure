@@ -37,7 +37,7 @@ console.log(charactor[keyValue]); // arya becoz keyValue is a variable & keyValu
     // . : it can only access value.
 
 5. What are situation where we use dot notation and bracket notation.
-    // Always use [] Notation to access variable and when obj key has multiple word (i.e. first-Name)
+    // Always use [] Notation to access variable and when obj key has multiple word (i.e. first-Name) and when key is a number.
     // Other then that we can use . Notation
     
 */
