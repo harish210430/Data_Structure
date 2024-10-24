@@ -35,7 +35,7 @@ let userInfo = {
     name: "Satya Nadella",
     "first name": "Satya", // if u hv key as two words with spce then put the key in double quotes.
     10: "value1",   // keyName also can be a no. and a special keyWord.
-    let: "val2",
+    let: "val2",   
     typeof: "val3"
 };
 //  But we can not access two words key Or no. key with '.' , We can Access them with "[]" 
